@@ -11,10 +11,11 @@
 - You are expected to work in a group of two
 - You are expected to use nine lessons to complete a task of your choice from a given list of topics
 - For your chosen topic, you are expected to:
-  1. conduct some in-depth research on the topic
-  2. come up with a list of quiz like questions 
-  3. program a quiz using a programming language of your choice, such as Scratch, or Python using the quiz questions from bulletin point 2
-  4. present your research work using PowerPoint, Publisher, Canva or webpages to the class
+  1. Conduct some in-depth research on the topic
+  2. Divide the topic into broad aspects/categories 
+  3. Come up with a list of quiz like questions for each aspect/category 
+  4. Program a quiz using a programming language of your choice, such as Scratch, or Python using the quiz questions from bulletin point 2
+  5. Present your research work using PowerPoint, Publisher, Canva or webpages to the class
 
 ### A List of Tasks/Topics for You to Choose
 #### Task/Topic 1: heathy life style
@@ -35,10 +36,7 @@ Example questions:
 
 
 ### Your Team Work Track Sheet
-To help your orangise your team and your work, use the work track sheet located in your class Notebook. 
-<!-- 
-[Right Click, then Save As to download this work template to guide your progress](https://github.com/digixc/Y9-SkillBuilding/blob/gh-pages/doc/SkillBuilding_ProgressTracker.docx)
--->
+To help your orangise your team and your work, use the project track sheet located in your class Notebook. 
 
 ### Work You Need to Hand in
 You have 9 lessons to work on this.  At the end of your lessons, you will hand in the following evidence to the relevant assignment on Teams:
