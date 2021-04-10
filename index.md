@@ -1,22 +1,25 @@
-## Welcome to Skill Building for A Better Learner
+## Welcome to Y8 Computer Science: Group Project
 
 ### Objectives:
 - To develop research and information synthesising skill
 - To develop time and task management skill
-- To develop prsentation skill
+- To develop and enforcing problem solving and practical programming skill
+- To develop presentation and communication skill
 
 ### What to Expect
 
-- You are expected to use three lessons to complete a task of your choice from a given list of tasks
-- For your chosen task, you are expected to answer 3 given mandatory questions and 2 further questions of your choice from a list of questions
-- You are expected to conduct some research, and for some tasks, some analysis of data
-- Your finished task should be well written and well organised using text and images 
-- You are expected to present your work using Word, PowerPoint, Publisher or webpages
+- You are expected to work in a group of two
+- You are expected to use nine lessons to complete a task of your choice from a given list of topics
+- For your chosen topic, you are expected to:
+  1. conduct some in-depth research on the topic
+  2. come up with a list of quiz like questions 
+  3. program a quiz using a programming language of your choice, such as Scratch, or Python using the quiz questions from bulletin point 2
+  4. present your research work using PowerPoint, Publisher, Canva or webpages to the class
 
 ### A List of Tasks/Topics for You to Choose
-#### Task/Topic 1: IoT - Internet of Things
+#### Task/Topic 1: heathy life style
 ```markdown
-Mandatory Questions for You to Answer:
+Some research starting pointfor you:
   1. What is IoT?
   2. Give three examples of IoT and describe their applications
   3. Explain to your best ability the technologies used in those three examples of IoT
