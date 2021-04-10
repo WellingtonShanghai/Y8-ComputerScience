@@ -6,7 +6,7 @@
 - To develop and enforcing problem solving and practical programming skill
 - To develop presentation and communication skill
 
-### What to Expect
+### Expectations
 
 - You are expected to work in a group of two
 - You are expected to use nine lessons to complete a task of your choice from a given list of topics
@@ -25,6 +25,7 @@ Some research starting point for you:
   2. What aspects are there for a healthy life style such as, diet, exercise and habits which include drinking, smoking, screen time etc
   3. Once you have a list of broad aspects, you can then as a group to divide tasks to research in-depth for each aspect
   4. For each aspect, you can then come up with a list of quiz questions - make sure the questions can be answered judged easily by using programming languages
+  5. Make sure you have at last 15 questions
 
 Example questions:
   1. At least how many minutes of moderate intensity activity a week is considered to be essential for a healthy life style? (the answer 150 is an easy answer using programming language to judge)
@@ -34,7 +35,12 @@ Example questions:
 ```
 #### Task/Topic 2: A Topic of your own choice that related to your subject of study
 
+```markdown
+ - For this choice, you can pick a topic that interests you and your team member from any subject you are either studying currently or studies in the past
+ - Make sure the topic is appropriate and allow you to have at least 15 quiz questions
+ - Follow the same method describes in the Expectations section
 
+```
 ### Your Team Work Track Sheet
 To help your orangise your team and your work, use the project track sheet located in your class Notebook. 
 
